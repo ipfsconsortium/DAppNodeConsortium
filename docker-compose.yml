@@ -1,0 +1,5 @@
+version: '3.4'
+services:
+    ipfsconsortium.dnp.dappnode.eth:
+        build: .
+        image: 'ipfsconsortium.dnp.dappnode.eth:0.0.1'

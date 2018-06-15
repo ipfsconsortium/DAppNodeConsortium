@@ -1,0 +1,32 @@
+{
+    "name": "ipfsconsortium.dnp.dappnode.eth",
+    "version": "0.0.1",
+    "description": "IPFSConsortium version for DAppNode. IPFS consortium deamon scripts wrapped as an npm module",
+    "avatar": "/ipfs/QmTC6dQATsoy2X9We5x7bVEZnUnYs3XLnbfeF62QkeUXTw",
+    "type": "service",
+    "image": {
+        "path": "ipfsconsortium.dnp.dappnode.eth_0.0.1.tar.xz",
+        "hash": "/ipfs/QmZ6JNTxBFjT28aBtmnbj5BHjmsbXWRn7hjAZ2zncxKE4p",
+        "size": 23743208
+    },
+    "author": "Stefaan Ponnet",
+    "contributors": [
+        "Eduardo Antuña <eduadiez@gmail.com> (https://github.com/eduadiez)"
+    ],
+    "keywords": [
+        "Consortium",
+        "IPFS",
+        "ENS"
+    ],
+    "homepage": {
+        "homepage": "https://github.com/ipfsconsortium/IPFSConsortiumProxy#readme"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://sponnet@github.com/ipfsconsortium/IPFSConsortiumProxy.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ipfsconsortium/IPFSConsortiumProxy/issues"
+    },
+    "license": "GPL-3.0"
+}
