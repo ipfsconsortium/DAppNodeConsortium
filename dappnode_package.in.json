@@ -2,7 +2,7 @@
     "name": "ipfsconsortium.dnp.dappnode.eth",
     "version": "0.0.1",
     "description": "IPFSConsortium version for DAppNode. IPFS consortium deamon scripts wrapped as an npm module",
-    "avatar": "/ipfs/QmTC6dQATsoy2X9We5x7bVEZnUnYs3XLnbfeF62QkeUXTw",
+    "avatar": "avatar.png",
     "type": "service",
     "image": {
         "path": "ipfsconsortium.dnp.dappnode.eth_0.0.1.tar.xz",
