@@ -1,6 +1,12 @@
 # DAppNodeConsortium
 Dappnode package responsible for IPFSConsortium specifically to pin the DAppNode files 
 
+# Installing on DappNode
+
+The link to install the IPFS Pinning consortium on DappNode (v0.0.1) is 
+
+`/ipfs/QmXVaWaW9CyTpx6CU4hP9M7Tg9eAvagnf4WCWuqokD1AEu`
+
 # Updating the package
 
 Simply run
@@ -23,10 +29,6 @@ uploadManifest...
 ./build_0.0.1/dappnode_package.json
 Manifest uploaded! QmXVaWaW9CyTpx6CU4hP9M7Tg9eAvagnf4WCWuqokD1AEu
 ```
-
-The link to install on DappNode will be
-
-`/ipfs/QmXVaWaW9CyTpx6CU4hP9M7Tg9eAvagnf4WCWuqokD1AEu`
 
 # Thanks
 
